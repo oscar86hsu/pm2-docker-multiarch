@@ -2,7 +2,7 @@
 
 This repo is modified from [keymetrics/docker-pm2](https://github.com/keymetrics/docker-pm2)
 
-[![dockeri.co](https://dockeri.co/image/oscar86hsu/pm2)](https://hub.docker.com/r/oscar86hsu/pm2)(https://hub.docker.com/r/oscar86hsu/pm2)
+[![dockeri.co](https://dockeri.co/image/oscar86hsu/pm2)](https://hub.docker.com/r/oscar86hsu/pm2)
 
 Production ready nodeJS Docker image including the [PM2 runtime](http://pm2.keymetrics.io/).
 
